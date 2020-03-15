@@ -1,1 +1,10 @@
 Mi primera prueba de Git con Nano
+
+Antes al borrar el arbol de trabajo, nos cargamos el fichero que habiamos modificado. 
+Y por eso volvio a su estado anterior. El fichero que si habiamos commiteado.
+
+
+De nuevo modificamos el archivo.
+
+Test#1
+Test#2
